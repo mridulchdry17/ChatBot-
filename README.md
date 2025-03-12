@@ -13,7 +13,7 @@ This repository contains a chatbot built using **LangChain** and **HuggingFaceH4
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/mridulchdry17/your-repo.git
    cd your-repo
    ```
 
